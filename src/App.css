@@ -36,3 +36,76 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  margin-top: 15px;
+}
+
+.header-heading {
+  font-size: 20px;
+  color: #00466E;
+  margin-bottom: 0px;
+  font-weight: 700;
+}
+
+.tracking-count {
+  font-size: 16px;
+  color: #006B6E;
+  margin-bottom: 0px;
+}
+
+.main {
+  padding: 15px 12px;
+}
+
+.input-box {
+  min-width: 100%;
+  min-height: 55px;
+  border: 1px solid #B4B4B4;
+  border-radius: 6px;
+  padding: 20px;
+}
+
+.add-website-btn {
+  min-width: 100%;
+  min-height: 100%;
+  background-color: #00466E;
+  color: #fff;
+}
+
+.add-website-btn:hover {
+  min-width: 100%;
+  min-height: 100%;
+  background-color: #00466E;
+  color: #fff;
+}
+
+.websites-heading {
+  font-size: 20px;
+  color: #00466E;
+  margin: 25px 0px;
+  font-weight: 700;
+}
+
+.website-title {
+  font-size: 20px;
+  color: #181818;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+
+.website-url {
+  font-size: 14px;
+  color: #00466E;
+  margin-bottom: 0px;
+}
+
+.last-checked {
+  font-size: 14px;
+  color: #B4B4B4;
+  margin-bottom: 0px;
+}
+
+.fetch-button {
+  min-width: 100%;
+}
